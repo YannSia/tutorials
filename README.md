@@ -13,8 +13,8 @@ Here, you can find the tutorials (notebooks) made by the Ens'IA team, along with
   
 
 - **Session 2 - Introduction to neural networks (perceptron - sigmoid neuron)**
-  - Slides : [slides](https://github.com/YannSia/tutorials/blob/master/session2/Ensia_neural_network.pdf)  
-  - Replay : *available soon*  
+  - Slides: [slides](https://github.com/YannSia/tutorials/blob/master/session2/Ensia_neural_network.pdf)  
+  - Replay: https://youtu.be/yC0u7oHirzg (ask us if you have any question!)
   
   - Perceptron:  
     - Fill-in-the-blank code: [Notebook](https://github.com/YannSia/tutorials/blob/master/session2/perceptron_TODO.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session2/perceptron_TODO.ipynb)  
