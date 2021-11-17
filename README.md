@@ -29,6 +29,8 @@ Here, you can find the tutorials (notebooks) made by the Ens'IA team, along with
   - Correction code: [Notebook](https://github.com/YannSia/tutorials/blob/master/session3/neural_networks.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session3/neural_networks.ipynb)  
 
 - **Session 4 - Convolutional neural network!**
+  - Slides: [slides](https://github.com/YannSia/tutorials/blob/master/session4/Ensia_CNN.pdf)
+
   - Fill-in-the-blank code:   [Notebook](https://github.com/YannSia/tutorials/blob/master/session4/CNN_TODO.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session4/CNN_TODO.ipynb)  
   
   
