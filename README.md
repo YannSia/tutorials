@@ -34,3 +34,8 @@ Here, you can find the tutorials (notebooks) made by the Ens'IA team, along with
   - Fill-in-the-blank code:   [Notebook](https://github.com/YannSia/tutorials/blob/master/session4/CNN_TODO.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session4/CNN_TODO.ipynb)  
   
   - Correction code: [Notebook](https://github.com/YannSia/tutorials/blob/master/session4/CNN.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session4/CNN.ipynb)  
+  
+- **Workshop data processing**
+  - [Notebook part 1](https://github.com/YannSia/challenge-2022/blob/master/workshop-data/Workshop_Challenge_ENS'IA_x_Neovision.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/challenge-2022/blob/master/workshop-data/data_preprocessing_using_keras.ipynb)  
+  - [Notebook part 2](https://github.com/YannSia/challenge-2022/blob/master/workshop-data/Workshop_Challenge_ENS'IA_x_Neovision.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/challenge-2022/blob/master/workshop-data/data_preprocessing_using_keras.ipynb)
+
