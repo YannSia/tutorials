@@ -1,0 +1,4 @@
+flappy_bird_gym
+gym
+numpy
+matplotlib
