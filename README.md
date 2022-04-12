@@ -43,3 +43,5 @@ Here, you can find the tutorials (notebooks) made by the Ens'IA team, along with
   - Slides: [slides](https://github.com/YannSia/tutorials/blob/master/session5/EnsIA_RL_QLearning.pdf)
 
   - Fill-in-the-blank code:   [Notebook](https://github.com/YannSia/tutorials/blob/master/session5/ensia_qlearning_todo.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session5/ensia_qlearning_todo.ipynb) 
+
+  - Correction code: [Notebook](https://github.com/YannSia/tutorials/blob/master/session5/ensia_qlearning_correction.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session5/ensia_qlearning_correction.ipynb)  
