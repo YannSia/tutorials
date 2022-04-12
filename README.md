@@ -38,4 +38,8 @@ Here, you can find the tutorials (notebooks) made by the Ens'IA team, along with
 - **Workshop data processing**
   - [Notebook part 1](https://github.com/YannSia/challenge-2022/blob/master/workshop-data/Workshop_Challenge_ENS'IA_x_Neovision.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/challenge-2022/blob/master/workshop-data/data_preprocessing_using_keras.ipynb)  
   - [Notebook part 2](https://github.com/YannSia/challenge-2022/blob/master/workshop-data/Workshop_Challenge_ENS'IA_x_Neovision.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/challenge-2022/blob/master/workshop-data/data_preprocessing_using_keras.ipynb)
+  
+- **Session 5 - Introduction to Reinforcement Learning**
+  - Slides: [slides](https://github.com/YannSia/tutorials/blob/master/session5/EnsIA_RL_QLearning.pdf)
 
+  - Fill-in-the-blank code:   [Notebook](https://github.com/YannSia/tutorials/blob/master/session5/ensia_qlearning_todo.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session5/ensia_qlearning_todo.ipynb) 
