@@ -9,5 +9,5 @@ Here, you can find the tutorials (notebooks) made by the Ens'IA team, along with
     [Notebook 2](https://github.com/YannSia/tutorials/blob/master/session1/session1_part2_signoid_todo.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session1/session1_part2_signoid_todo.ipynb) 
   
   - Correction code: [Notebook 1](https://github.com/YannSia/tutorials/blob/master/session1/session1_part1_correction.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session1/session1_part1_perceptron_todo.ipynb)  
-    [Notebook 1](https://github.com/YannSia/tutorials/blob/master/session1/session1_part2_signoid_todo.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session1/session1_part2_correction.ipynb) 
+    [Notebook 2](https://github.com/YannSia/tutorials/blob/master/session1/session1_part2_correction.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session1/session1_part2_correction.ipynb) 
   
