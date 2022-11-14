@@ -14,6 +14,6 @@ Here, you can find the tutorials (notebooks) made by the Ens'IA team, along with
 
 
 - **Session 2 - Introduction to machine learning & perceptron - Neural Network**
-  - Slides : [slides](session2/Ensia_Neural_Network.pdf.pdf)
+  - Slides : [slides](session2/Ensia_Neural_Network.pdf)
 
   - Fill-in-the-blank code: [Notebook](https://github.com/YannSia/tutorials/blob/master/session2/session2_Neural_Network_TODO.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session2/session2_Neural_Network_TODO.ipynb)  
