@@ -19,3 +19,9 @@ Here, you can find the tutorials (notebooks) made by the Ens'IA team, along with
   - Fill-in-the-blank code: [Notebook](https://github.com/YannSia/tutorials/blob/master/session2/session2_Neural_Network_TODO.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session2/session2_Neural_Network_TODO.ipynb)  
 
   - Correction code: [Notebook](https://github.com/YannSia/tutorials/blob/master/session2/session2_Neural_Network.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session2/session2_Neural_Network.ipynb)
+
+
+- **Session 3 - Some machine learning algorithms : KNN and K-Mean**
+  - Slides : [slides](session3/ensia_KNN.pdf)
+
+  - Fill-in-the-blank code: [Notebook](https://github.com/YannSia/tutorials/blob/master/session3/Session_3_KNN_TODO.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session3/Session_3_KNN_TODO.ipynb)  
