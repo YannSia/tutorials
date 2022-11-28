@@ -26,7 +26,7 @@ Here, you can find the tutorials (notebooks) made by the Ens'IA team, along with
 
   - Fill-in-the-blank code: [Notebook](https://github.com/YannSia/tutorials/blob/master/session3/Session_3_KNN_TODO.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session3/Session_3_KNN_TODO.ipynb)  
   
-  - Correction code: [Notebook](https://github.com/YannSia/tutorials/blob/master/session3/Session_3-KNN.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session2/Session_3-KNN.ipynb)
+  - Correction code: [Notebook](https://github.com/YannSia/tutorials/blob/master/session3/Session_3-KNN.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session3/Session_3-KNN.ipynb)
 
 
 - **Session 4 - Creating neural networks using Tensorflow and Keras**
