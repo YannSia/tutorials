@@ -36,4 +36,4 @@ Here, you can find the tutorials (notebooks) made by the Ens'IA team, along with
 
   - Fill-in-the-blank code: [Notebook](https://github.com/YannSia/tutorials/blob/master/session4/TODO_Session_4-Neural_Network_using_Keras.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session4/TODO_Session_4-Neural_Network_using_Keras.ipynb)
 
-  - Correction code: SOON
+  - Correction code: [Notebook](https://github.com/YannSia/tutorials/blob/master/session4/Session_4-Neural_Network_using_Keras.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/tutorials/blob/master/session4/Session_4-Neural_Network_using_Keras.ipynb)
